@@ -1,9 +1,11 @@
+CLI - Command Line Interface
 
 -- Terminal
 
 dotnet --version
 dotnet --list-sdks
 dotnet --list-runtimes
+dotnet --help
 
 ls ou dir - Conteúdo do diretório
 clear ou cls - limpar o terminal
