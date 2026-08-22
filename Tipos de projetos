@@ -1,1 +1,19 @@
+Class Library
+O resultado final é uma DLL
+Não possui interface
 
+Console Application
+O resultado final é uma aplicaçao que roda no terminal
+Pode receber dados, eperar imput do usuario
+
+Projeto Web
+Projeto Testes
+
+dotnet cli
+dotnet new console --> Novo Console Application
+dotnet new classlib -- Nova Classe Library
+dotnet new web -- Novo projeto ASP.NET
+dotnet new mvc 
+dotnet new webapi
+
+dotnet new console -o MeuApp
